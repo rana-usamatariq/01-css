@@ -1,0 +1,21 @@
+p{
+    font-size: smaller;
+    font-weight: 200;
+}
+
+#usama{
+   
+    background-color: blue;
+}
+/*p,#usama{
+    background-color: blueviolet;
+
+}*/
+
+.paragraph1{
+    background-color: aqua;
+    background-color: #ffffff;
+}
+#fourpara{
+    background-color: hsl(34,50%,60%);
+}
